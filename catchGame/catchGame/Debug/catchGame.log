@@ -1,0 +1,11 @@
+﻿  catchGame.cpp
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(225): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(239): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(281): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(39): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(48): warning C4390: ';': empty controlled statement found; is this the intent?
+  catchGame.vcxproj -> C:\Users\c00240102\Desktop\catchGame\Debug\catchGame.exe
